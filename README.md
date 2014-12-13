@@ -1,4 +1,5 @@
 HackrRank_Labsessions
 =====================
+HackerRank: https://www.hackerrank.com
 
-HackrRank_Labsessions
+This repo is about HackerRank training exercises.
