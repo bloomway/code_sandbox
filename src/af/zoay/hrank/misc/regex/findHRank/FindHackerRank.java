@@ -1,4 +1,4 @@
-package af.zoay.hrank.misc.regex;
+package af.zoay.hrank.misc.regex.findHRank;
 
 import java.io.BufferedReader;
 import java.io.File;
