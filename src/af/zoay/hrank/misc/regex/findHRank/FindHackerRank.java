@@ -32,7 +32,7 @@ public class FindHackerRank {
 	{
 		StringBuilder sb = new StringBuilder();
 		
-		try(BufferedReader reader = new BufferedReader(new FileReader(new File("/Applications/MAMP/htdocs/Zoay/HackrRank_Labsessions/src/af/zoay/hrank/misc/regex/hrank_regex.txt"))))
+		try(BufferedReader reader = new BufferedReader(new FileReader(new File("/Applications/MAMP/htdocs/Zoay/HackrRank_Labsessions/src/af/zoay/hrank/misc/regex/findHRank/hrank_regex.txt"))))
 		{
 			String line;
 			String firstLine = reader.readLine();
