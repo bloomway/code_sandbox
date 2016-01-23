@@ -2,3 +2,5 @@ discovery/
 GringoApp/
 hotapi/keys/
 hotapi/.idea
+/bin/
+
